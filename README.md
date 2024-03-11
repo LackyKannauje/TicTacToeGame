@@ -1,4 +1,4 @@
-# learn_provider
+# TicTacToe
 
 A new Flutter project.
 
