@@ -2,7 +2,7 @@
 
 Welcome to **Tic Tac Toe: The Ultimate Multiplayer Challenge**—a modern twist on a timeless classic, with enhanced animations, sounds, and real-time multiplayer action! Get ready to outsmart your opponents and become the Tic Tac Toe champion! 🎉
 
-![Tic Tac Toe]![{A8284914-2B41-407B-85C9-DCD1AA8FCB71}](https://github.com/user-attachments/assets/7d1cd320-4f41-47a1-a32e-c0ebf9170df6)
+![Tic Tac Toe](https://github.com/user-attachments/assets/7d1cd320-4f41-47a1-a32e-c0ebf9170df6)
 
 
 ![video link](https://drive.google.com/file/d/1VIoALC7OQS8XyUvLxgHcC6T9h-MxDU3m/view)
